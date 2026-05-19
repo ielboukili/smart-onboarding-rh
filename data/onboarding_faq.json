@@ -1,0 +1,64 @@
+  {
+    "faq": [
+        {
+            "question": "Quels documents dois-je preparer pour mon onboarding?",
+            "answer": "Pour votre onboarding, veuillez preparer: une piece d'identite, un RIB, votre dernier releve de situation, et votredeclaration situation famille.",
+            "category": "documents",
+            "tags": ["onboarding", "preparation", "documents"]
+        },
+        {
+            "question": "Comment fonctionne le teletravail dans l'entreprise?",
+            "answer": "Le teletravail est autorise jusqu'a 2 jours par semaine, sur accord de votre manager. Une convention de teletravail doit etre signee.",
+            "category": "teletravail",
+            "tags": ["teletravail", "organisation", "convention"]
+        },
+        {
+            "question": "Combien de jours de conges payes ai-je?",
+            "answer": "Vous beneficie de 25 jours de conges payes par an ( LTE du travail ). Les conges sont acquis du 1er juin au 31 mai de l'annee suivante.",
+            "category": "conges",
+            "tags": ["conges", "droits", "quantieme"]
+        },
+        {
+            "question": "Quelles sont les modalites de la mutuelle?",
+            "answer": "La mutuelle d'entreprise est obligatoire. Les frais sont pris en charge a 50% par l'employeur. Contact RH pour votre attestation.",
+            "category": "mutuelle",
+            "tags": ["mutuelle", "sante", "prestation"]
+        },
+        {
+            "question": "Comment est verse mon salaire?",
+            "answer": "Le salaire est verse le dernier jour ouvrable du mois par virement sur votre compte bancaire. Un bulletin de paie est disponible sur votre espace salarie.",
+            "category": "salaire",
+            "tags": ["salaire", "versement", "bulletin"]
+        },
+        {
+            "question": "Quelle est la procedure en cas de maladie?",
+            "answer": "En cas de maladie, prevenez votre manager et les RH sous 48h. Transmettez votre arret maladie dans les 48h. Le traitement de votre dossier est automatise.",
+            "category": "maladie",
+            "tags": ["maladie", "absence", "arret"]
+        },
+        {
+            "question": "Comment acceder a mon espace salarie?",
+            "answer": "Votre espace salarie est accessible via le portail RH avec les identifiants transmis lors de votre onboarding. Contactez le service RH en cas de probleme.",
+            "category": "acces",
+            "tags": ["espace salarie", "portail RH", "identifiants"]
+        },
+        {
+            "question": "Quand et comment est realisee ma periode d'essai?",
+            "answer": "La periode d'essai dure 2 mois (renouvelables une fois). Un entretien de mi-parcours est prevu au bout d'un mois pour faire le point.",
+            "category": "periode essai",
+            "tags": ["periode essai", "integration", "entretien"]
+        },
+        {
+            "question": "Quels sont les horaires de travail?",
+            "answer": "Les horaires standards sont de 9h a 17h30 avec une pause dejeuner d'une heure. Des amenagements sont possibles selon votre poste.",
+            "category": "horaire",
+            "tags": ["horaire", "temps travail", "pause"]
+        },
+        {
+            "question": "Comment fonctionne la formation continue?",
+            "answer": "Le plan de formation est elabore chaque annee. Vous pouvez egalement utiliser votre CPF. Demandez a votre manager les possibilites adaptees a votre poste.",
+            "category": "formation",
+            "tags": ["formation", "CPF", "developpement"]
+        }
+    ]
+}
