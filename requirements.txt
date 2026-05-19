@@ -1,0 +1,11 @@
+sentence-transformers
+faiss-cpu
+python-docx
+openpyxl
+PyPDF2
+openai
+anthropic
+requests
+python-dotenv
+pydantic
+rich
